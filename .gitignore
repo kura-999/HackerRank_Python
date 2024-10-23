@@ -1,2 +1,3 @@
 notebooks/others.ipynb
-.jupyter
+.ipynb_checkpoints
+.jupyter/desktop-workspaces
