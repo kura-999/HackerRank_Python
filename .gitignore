@@ -1,3 +1,7 @@
 notebooks/others.ipynb
-.ipynb_checkpoints
-.jupyter/desktop-workspaces
+
+# Jupyter workspace configurations
+.jupyter/desktop-workspaces/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
